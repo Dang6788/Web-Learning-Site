@@ -1,4 +1,6 @@
-# 第一次讨论 2020/10/10
+# 第一次讨论 
+# 2020/10/10 15:00-16:30 四教304研讨间
+
 ## 框架
 * 前端html 、css、javascript
 * 登录认证、交互
@@ -39,7 +41,7 @@
 * 第九周：修改测试
 * 第十周：完成报告
 ## 本周分工
-* 前端设计空壳、UI【盖房子、装修）whw/ljw
-* 按钮功能【javascript】 whw/ljw
-* server/client的连接 yyx
-* 后端设计数据库的逻辑 zxy/ckx
+* 前端设计框架、UI -> whw/ljw
+* 按钮与逻辑功能 -> whw/ljw
+* server/client的连接、借口设计 -> yyx
+* 后端设计数据库的逻辑 -> zxy/ckx
